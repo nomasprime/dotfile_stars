@@ -4,3 +4,6 @@
 [submodule "junegunn/dotfiles"]
 	path = junegunn/dotfiles
 	url = git@github.com:junegunn/dotfiles.git
+[submodule "justinmk/config"]
+	path = justinmk/config
+	url = git@github.com:justinmk/config.git
