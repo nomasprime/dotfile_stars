@@ -16,3 +16,6 @@
 [submodule "haorenW1025/dotfiles"]
 	path = haorenW1025/dotfiles
 	url = https://github.com/haorenW1025/dotfiles
+[submodule "CraftedCart/dotfiles"]
+	path = CraftedCart/dotfiles
+	url = git@gitlab.com:CraftedCart/dotfiles.git
