@@ -13,3 +13,6 @@
 [submodule "wincent/wincent"]
 	path = wincent/wincent
 	url = git@github.com:wincent/wincent.git
+[submodule "haorenW1025/dotfiles"]
+	path = haorenW1025/dotfiles
+	url = https://github.com/haorenW1025/dotfiles
