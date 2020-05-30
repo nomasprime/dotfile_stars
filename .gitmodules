@@ -7,3 +7,6 @@
 [submodule "justinmk/config"]
 	path = justinmk/config
 	url = git@github.com:justinmk/config.git
+[submodule "tpope/tpope"]
+	path = tpope/tpope
+	url = git@github.com:tpope/tpope.git
