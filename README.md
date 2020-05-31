@@ -1,1 +1,1 @@
-# dotfile_superstars
+# dotfile_stars
