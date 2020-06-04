@@ -19,3 +19,6 @@
 [submodule "CraftedCart/dotfiles"]
 	path = CraftedCart/dotfiles
 	url = git@gitlab.com:CraftedCart/dotfiles.git
+[submodule "weilbith/vim-blueplanet"]
+	path = weilbith/vim-blueplanet
+	url = git@github.com:weilbith/vim-blueplanet.git
