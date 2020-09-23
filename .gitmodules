@@ -28,3 +28,6 @@
 [submodule "glepnir/nvim"]
 	path = glepnir/nvim
 	url = https://github.com/glepnir/nvim
+[submodule "glepnir/dotfiles"]
+	path = glepnir/dotfiles
+	url = https://github.com/glepnir/dotfiles
