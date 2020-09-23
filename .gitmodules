@@ -22,3 +22,6 @@
 [submodule "weilbith/vim-blueplanet"]
 	path = weilbith/vim-blueplanet
 	url = git@github.com:weilbith/vim-blueplanet.git
+[submodule "ChristianChiarulli/nvim"]
+	path = ChristianChiarulli/nvim
+	url = https://github.com/ChristianChiarulli/nvim
