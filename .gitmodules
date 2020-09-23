@@ -31,3 +31,6 @@
 [submodule "glepnir/dotfiles"]
 	path = glepnir/dotfiles
 	url = https://github.com/glepnir/dotfiles
+[submodule "vigoux/dotfiles"]
+	path = vigoux/dotfiles
+	url = https://github.com/vigoux/dotfiles
